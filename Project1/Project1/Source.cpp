@@ -1,6 +1,6 @@
 
 #include <iostream>
-
+// pete was heer
 int add(int  t_a, int t_b);
 int squared(int t_a);
 float squareRoot(int t_a);
